@@ -1,0 +1,10 @@
+pyttsx3
+pynput
+pyautogui
+wikipedia
+opencv-python
+mediapipe
+comtypes
+pycaw
+screen-brightness-control
+eel
